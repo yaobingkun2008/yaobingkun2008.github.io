@@ -23,3 +23,15 @@ I'm Bingkun Yao, a second-year Ph.D. student from Massive Data Computation Resea
 ## Hobby
 ### Going cycling
 ### Game For Peace by Tencent
+## Some interesting images
+
+<table border="0">
+  <tr>
+    <td width="25%">
+      <img src="/ybk.jpg" width="100%">
+    </td>
+    <td width="25%">
+      <img src="/ybk.jpg" width="100%">      
+    </td>
+  </tr>
+</table>
