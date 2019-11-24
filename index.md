@@ -47,10 +47,10 @@ I'm Bingkun Yao, a second-year Ph.D. student from Massive Data Computation Resea
       <img src="/5.jpg" width="100%">
     </td>
     <td width="25%">
-      <img src="/6.jpg" width="100%">      
+      <img src="/7.jpg" width="100%">      
     </td>
     <td width="25%">
-      <img src="/7.jpg" width="100%">
+      <img src="/6.jpg" width="100%">
     </td>
     <td width="25%">
       <img src="/8.jpg" width="100%">      
