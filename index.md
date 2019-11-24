@@ -7,7 +7,7 @@
       <p><b>Email: bingkunyao@stu.hit.edu.cn</b></p>
     </td>
     <td width="25%">
-      <img src="/ybk.jpg" width="100%">      
+      <img src="/D5885384-277D-4EE8-8D26-8B6A66DFCDD9.jpeg" width="100%">      
     </td>
   </tr>
 </table>
