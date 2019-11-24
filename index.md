@@ -4,5 +4,5 @@ I'm Bingkun Yao, a second-year Ph.D. student from Massive Data Computation Resea
 ### Ph.D. student Harbin Institude of Technology 2018.9-present
 ### Bachelor of Engineering Major: Computer Science and Technology, Harbin Institude of Technology
 ## Publication
-### Multicast Scheduling Algorithms for Battery-Free Wireless Sensor Networks. 
+### Multicast Scheduling Algorithms for Battery-Free Wireless Sensor Networks
 Bingkun Yao, Hong Gao and Jianzhong Li, in MASS 2019
