@@ -25,7 +25,7 @@ I'm Bingkun Yao, a second-year Ph.D. student from Massive Data Computation Resea
 #### Sleeping & eating
 #### Sucking cats
 #### Game For Peace by Tencent
-## Some interesting images
+## Some interesting images (More coming soon...)
 
 <table border="0">
   <tr>
