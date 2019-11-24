@@ -16,7 +16,7 @@ I'm Bingkun Yao, a second-year Ph.D. student from Massive Data Computation Resea
 
 ## Education
 ### Ph.D. student Harbin Institude of Technology, 2018.9-present
-### Bachelor of Engineering, Major: Computer Science and Technology, Harbin Institude of Technology
+### Bachelor of Engineering, Computer Science and Technology, Harbin Institude of Technology, 2014.9-2018.7
 ## Publication
 ### Multicast Scheduling Algorithms for Battery-Free Wireless Sensor Networks
 *Bingkun Yao, Hong Gao and Jianzhong Li, MASS 2019*
@@ -24,7 +24,7 @@ I'm Bingkun Yao, a second-year Ph.D. student from Massive Data Computation Resea
 #### Going cycling & travelling
 #### Sleeping & eating
 #### Sucking cats
-#### Game For Peace by Tencent
+#### Sneakers
 ## Some interesting images (More coming soon...)
 
 <table border="0">
